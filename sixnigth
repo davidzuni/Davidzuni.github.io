@@ -1,0 +1,114 @@
+<html lang="es"><!--<![endif]-->
+<head>
+	
+	                       <title>Six nigh</title>
+<meta charset="utf-8">
+<meta  name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="Estilo.css"></head>
+<body>
+<header class="header fix">
+<div class="container logo-nav-container">
+<a href="#" class="logo">logo</a>
+<nav class="navigation">
+	<ul>
+	<li><a href="#inicio">inicio</a></li>
+	<li><a href="#Mision y vision">Mision y vision</a></li>
+	<li><a href="#Valores">Valores</a></li>
+	<li><a href="#Servicios">Servicios</a></li>
+	<li><a href="#Organigrama">Organigrama</a></li>
+	<li><a href="#Directorio">Directorio</a></li>
+
+</ul>
+</nav>	
+</div>	
+</header>
+
+<main class="main">
+	<div class="container">
+		<p>
+			
+		</p>
+	</div>
+
+</main>
+
+	<div id="documenter_content">
+	<section id="documenter_cover">
+	<h1>Six night</h1>
+	<h2>un equipo de profecionales</h2>
+	<div id="documenter_buttons"></div>
+	<hr>
+	</section>
+	<section id="Mision,Vision">
+	<div class="titulo"><h3>Mision, Vision</h3><hr class="notop"></div>
+<p><b>Mision</b>: Es resolver cualquier problema de IT que tenga el cliente
+ <br>de la mejor manera posibke y al mejor precio</p>
+ <p><b>Vision</b>: La vision de la empresa es dirigirse
+  <br> a un publico cuyos problemas sean arreglados de la manera mas satisfactoria posible</p>	
+
+<p></p>
+</section>
+<section id="Valores">
+	<div class="titulo"><h3>Valores</h3><hr class="notop"></div>
+<p>en todos nuestros servicios aplicaremos lo que son...
+<br>
+<li><b>Respeto</b>:            </li>
+<li><b>Honestidad</b>:          </li>
+<li><b>Responsabilidad</b>:     </li>
+<li><b>Tolerancia</b>:          </li>
+  </p>
+</section>
+<section id="Servicios">
+	<div class="titulo"><h3>Servicios</h3><hr class="notop"></div>
+<p>
+	<br><li><b>Mantenimiento a distancia de Pc, monitor, teclado, mause</b></li> 
+	<li><b>Activacion de office</b></li> 
+<li><b>Descarga de antivirus</b></li>
+<li><b>Acyualizar o activar controladores</b></li>
+</p>
+</section>
+
+<section id="Organigrama">
+	<div class="titulo"><h3>Organigrama</h3><hr class="notop"></div>
+<p>
+	<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</p>
+<p>
+	<strong>Images</strong></p>
+<ul>
+	<li>
+		<a href="Tulipanes.JPEG"></a></li>
+		
+
+
+</ul>
+</section>
+<section id="Directorio">
+	<div class="titulo"><h3>Directorio</h3><hr class="notop"></div>
+<p></p>
+<p>Contamos con los mejores profecionales en soporte a distancia
+<br>ellos son:</p>
+	<ul>
+	<li>JORGE DAVID ZUÑIGA ALVAREZ</li>
+	<li>GIULI YORKAEHTH URREA MARTINEZ</li>	
+	<li>ADRIAN RUIZ CORONEL</li>
+	<li>VICTOR GABRIEL MARTINEZ GUMETA</li>	
+	<li>PABLO GONZALES DIAZ</li>
+<li>JAFET COUTIÑO RUIZ</li>
+<p>Nosotros te atenderemos</p>
+</ul>
+</section>
+	</div>
+	<footer class="footer">
+		<div class="container">
+		<p>Página diseñada por Equipo 7(David Zuñiga)</p>	
+		</div>
+		</footer>
+</body>
+</html>
